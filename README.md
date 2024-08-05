@@ -1,4 +1,4 @@
-# Megaline Prediction Model - Subscribers Behaviour Analysis
+# Megaline Prediction Model - Subscribers Behavior Analysis
 
 **Data Analyst Bootcamp** @ Tripleten<br>
 Sprint 11 Project - Intro to Machine Learning
